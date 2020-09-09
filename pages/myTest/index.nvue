@@ -1,0 +1,18 @@
+<template>
+	<div>
+		 <navigator url="/pages/myTabs/tabs" hover-class="navigator-hover">
+                    <button type="info">点击进入房态图</button>
+                </navigator>
+	</div>
+</template>
+
+<script>	
+export default {
+		components:{
+		}
+	}
+</script>
+
+<style>
+
+</style>
